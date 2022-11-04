@@ -24,7 +24,9 @@ Database for sales -
 https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak
 
 
+Required -
 
 SQL Server 2019,
 SQL Server Management Studio,
 MS Power BI Desktop 
+
